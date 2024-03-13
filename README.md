@@ -10,7 +10,6 @@
 ### To Start
 - Requires RUBY_VERSION=3.3.0 and rails "~> 7.1.3", ">= 7.1.3.2"
 - `make install` Installs the dependencies
-- `make setup` Sets run migrations and seeds the database
-  - `make seed` Seeds the database
+- `make seed` Sets run migrations and seeds the database
 - `make start` Starts the server
 - Instead `docker-compose build` and `docker-compose up` will bring the service up and running
